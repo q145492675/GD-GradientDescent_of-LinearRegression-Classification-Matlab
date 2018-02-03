@@ -12,7 +12,7 @@ This routine using GradientDescent to do the Linear Regression and Classificatio
 * Download the whole runtine.
 * Run :  
     `Master.m `
-  make sure each m files are in the same folder.
+  make sure all m-files are in the same folder.
 
 ### Appendix
 * This runtine is based on the Course of Machine Learning (Andrew Ng)in Coursera.
