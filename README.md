@@ -1,5 +1,5 @@
 # GradientDescent_of-Linear-Regression-Classification-Matlab-
-THis routine is based on Matlab 
+This routine is implemented in Matlab 
 ## Requirements:
 Matlab2012b and its latest version
 ## Description:
