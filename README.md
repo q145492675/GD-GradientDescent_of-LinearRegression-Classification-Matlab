@@ -8,6 +8,8 @@ This routine using GradientDescent to do the Linear Regression and Classificatio
 
 * Based on the length & width of the sepal and length and width of the petal, predict what kind of Iris it is (Two kinds:  `setosa ` &  `versicolor `), the dataset is come from  `UCI Machine Learning Repository ` URL:http://archive.ics.uci.edu/ml/datasets/Iris
 
+![](https://raw.githubusercontent.com/q145492675/GradientDescent_of-Linear-Regression-Classification-Matlab-/master/The%20result%20.jpg)
+
 ## Usage:
 * Download the whole runtine.
 * Run :  
